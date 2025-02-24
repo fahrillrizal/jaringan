@@ -53,7 +53,8 @@
 ![](assets/img/4.png)
 <br><br>
 - Pada baris ke-38 (`HTTP/1.1 200 OK`), server merespons permintaan pada **4.846969 detik**.
-- **Durasi antara request dan response** dihitung sebagai berikut:
+- **Durasi antara request dan response dihitung sebagai berikut: Jadi, server membutuhkan sekitar 3.94 detik untuk merespons permintaan ini.
+
 
 # Rangkuman Tahapan Komunikasi Menggunakan TCP
 
